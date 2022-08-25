@@ -1,2 +1,2 @@
 -------------- Login and Sign Up Page ---------------------- </br>
-Check it out here :- https://htmlpreview.github.io/?https://github.com/suresh5189/Login-and-Sign-Up-Page/blob/master/index.html
+Check it out here :- https://suresh5189.github.io/Login-and-Sign-Up-Page/
